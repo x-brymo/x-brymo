@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Hafez Eltarqi</h1>
 <h3 align="center">Full Stack Flutter developer and Tester Backend</h3>
 
-- 🔭 I’m currently working on **On Final Project In University**
+- 🔭 I’m currently working on ** Working on 3 projects, the most of which is a project for a medical analysis laboratory**
 
-- 🌱 I’m currently learning **Node.js, (Mojo) programming language**
+- 🌱 I’m currently learning **(Mojo) programming language , Backend .Net**
 
 - 🤝 I’m looking for help with **every one ask me about coding**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter , Next Js , Testing Mobile , Node js**
 
 - 📫 How to reach me **hafezcode06@gmail.com**
 
